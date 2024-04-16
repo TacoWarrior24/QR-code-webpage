@@ -95,4 +95,4 @@ No real useful resources just some guidance from Frontend Mentor (Link Bellbow )
 
 ## Acknowledgments
 
-[This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.](https://www.youtube.com/watch?v=LTNiNbuqcx4)
+[My Insperation for pursuing this project.](https://www.youtube.com/watch?v=LTNiNbuqcx4)
